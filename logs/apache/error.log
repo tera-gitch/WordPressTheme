@@ -1,0 +1,100 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 27 21:54:54.271034 2022] [mpm_event:notice] [pid 81962:tid 8668202496] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jul 27 21:54:54.271482 2022] [core:notice] [pid 81962:tid 8668202496] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Wed Jul 27 23:27:31.975523 2022] [core:warn] [pid 81962:tid 8668202496] AH00045: child process 82074 still did not exit, sending a SIGTERM
+[Wed Jul 27 23:27:31.991913 2022] [mpm_event:notice] [pid 81962:tid 8668202496] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 27 23:27:59.918157 2022] [mpm_event:notice] [pid 83516:tid 8633357824] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jul 27 23:27:59.919488 2022] [core:notice] [pid 83516:tid 8633357824] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Wed Jul 27 23:41:27.378886 2022] [mpm_event:notice] [pid 83516:tid 8633357824] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 27 23:42:41.143488 2022] [mpm_event:notice] [pid 83722:tid 8641582592] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jul 27 23:42:41.145082 2022] [core:notice] [pid 83722:tid 8641582592] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Jul 29 00:09:22.438875 2022] [mpm_event:notice] [pid 83722:tid 8641582592] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 01 19:28:20.965979 2022] [mpm_event:notice] [pid 22645:tid 8599660032] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Aug 01 19:28:20.966555 2022] [core:notice] [pid 22645:tid 8599660032] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Mon Aug 01 19:29:19.819496 2022] [mpm_event:notice] [pid 22645:tid 8599660032] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 01 19:29:56.851092 2022] [mpm_event:notice] [pid 22762:tid 8603883008] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Aug 01 19:29:56.851859 2022] [core:notice] [pid 22762:tid 8603883008] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Mon Aug 01 19:29:58.795978 2022] [mpm_event:notice] [pid 22762:tid 8603883008] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 01 19:30:01.344979 2022] [mpm_event:notice] [pid 22791:tid 8606332416] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Aug 01 19:30:01.345789 2022] [core:notice] [pid 22791:tid 8606332416] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Mon Aug 01 19:30:03.372544 2022] [mpm_event:notice] [pid 22791:tid 8606332416] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 07:35:41.224071 2022] [mpm_event:notice] [pid 54316:tid 8632616448] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 07:35:41.225434 2022] [core:notice] [pid 54316:tid 8632616448] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 07:45:19.853783 2022] [core:warn] [pid 54316:tid 8632616448] AH00045: child process 54327 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:45:21.861172 2022] [core:warn] [pid 54316:tid 8632616448] AH00045: child process 54327 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:45:23.864488 2022] [core:warn] [pid 54316:tid 8632616448] AH00045: child process 54327 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:45:25.874168 2022] [core:error] [pid 54316:tid 8632616448] AH00046: child process 54327 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 07:45:30.394751 2022] [core:warn] [pid 54417:tid 8601773568] AH00098: pid file /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 05 07:45:30.420706 2022] [mpm_event:notice] [pid 54417:tid 8601773568] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 07:45:30.420812 2022] [core:notice] [pid 54417:tid 8601773568] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 07:47:53.009356 2022] [mpm_event:notice] [pid 54417:tid 8601773568] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 07:47:54.565749 2022] [mpm_event:notice] [pid 54492:tid 8602908160] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 07:47:54.569748 2022] [core:notice] [pid 54492:tid 8602908160] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 07:48:07.236976 2022] [mpm_event:notice] [pid 54492:tid 8602908160] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 07:48:08.395168 2022] [mpm_event:notice] [pid 54564:tid 8609371648] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 07:48:08.397459 2022] [core:notice] [pid 54564:tid 8609371648] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 07:48:29.865033 2022] [core:warn] [pid 54564:tid 8609371648] AH00045: child process 54570 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:48:29.866824 2022] [core:warn] [pid 54564:tid 8609371648] AH00045: child process 54571 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:48:31.878247 2022] [core:warn] [pid 54564:tid 8609371648] AH00045: child process 54570 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:48:31.878407 2022] [core:warn] [pid 54564:tid 8609371648] AH00045: child process 54571 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:48:33.884573 2022] [core:warn] [pid 54564:tid 8609371648] AH00045: child process 54570 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:48:33.884764 2022] [core:warn] [pid 54564:tid 8609371648] AH00045: child process 54571 still did not exit, sending a SIGTERM
+[Fri Aug 05 07:48:35.891687 2022] [core:error] [pid 54564:tid 8609371648] AH00046: child process 54570 still did not exit, sending a SIGKILL
+[Fri Aug 05 07:48:35.891926 2022] [core:error] [pid 54564:tid 8609371648] AH00046: child process 54571 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 07:48:46.888720 2022] [core:warn] [pid 54621:tid 8666015232] AH00098: pid file /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 05 07:48:46.903956 2022] [mpm_event:notice] [pid 54621:tid 8666015232] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 07:48:46.904038 2022] [core:notice] [pid 54621:tid 8666015232] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 07:49:03.485702 2022] [mpm_event:notice] [pid 54621:tid 8666015232] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 07:49:04.844326 2022] [mpm_event:notice] [pid 54645:tid 8600749568] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 07:49:04.844822 2022] [core:notice] [pid 54645:tid 8600749568] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 08:03:52.729935 2022] [core:warn] [pid 54645:tid 8600749568] AH00045: child process 54665 still did not exit, sending a SIGTERM
+[Fri Aug 05 08:03:54.741691 2022] [core:warn] [pid 54645:tid 8600749568] AH00045: child process 54665 still did not exit, sending a SIGTERM
+[Fri Aug 05 08:03:56.747243 2022] [core:warn] [pid 54645:tid 8600749568] AH00045: child process 54665 still did not exit, sending a SIGTERM
+[Fri Aug 05 08:03:58.757417 2022] [core:error] [pid 54645:tid 8600749568] AH00046: child process 54665 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 08:04:02.713713 2022] [core:warn] [pid 54840:tid 8673424896] AH00098: pid file /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 05 08:04:02.727843 2022] [mpm_event:notice] [pid 54840:tid 8673424896] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 08:04:02.727897 2022] [core:notice] [pid 54840:tid 8673424896] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 08:29:34.847531 2022] [mpm_event:notice] [pid 54840:tid 8673424896] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 08:29:36.052747 2022] [mpm_event:notice] [pid 55092:tid 8667698688] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 08:29:36.055507 2022] [core:notice] [pid 55092:tid 8667698688] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 08:31:42.910704 2022] [core:warn] [pid 55092:tid 8667698688] AH00045: child process 55100 still did not exit, sending a SIGTERM
+[Fri Aug 05 08:31:44.948168 2022] [core:warn] [pid 55092:tid 8667698688] AH00045: child process 55100 still did not exit, sending a SIGTERM
+[Fri Aug 05 08:31:46.954466 2022] [core:warn] [pid 55092:tid 8667698688] AH00045: child process 55100 still did not exit, sending a SIGTERM
+[Fri Aug 05 08:31:48.963785 2022] [core:error] [pid 55092:tid 8667698688] AH00046: child process 55100 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 08:31:50.223689 2022] [core:warn] [pid 55166:tid 8663123456] AH00098: pid file /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 05 08:31:50.254795 2022] [mpm_event:notice] [pid 55166:tid 8663123456] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 08:31:50.254878 2022] [core:notice] [pid 55166:tid 8663123456] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 08:41:51.650491 2022] [mpm_event:notice] [pid 55166:tid 8663123456] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 08:41:56.023575 2022] [mpm_event:notice] [pid 55251:tid 8607696384] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 08:41:56.024208 2022] [core:notice] [pid 55251:tid 8607696384] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 17:31:33.557982 2022] [mpm_event:notice] [pid 55251:tid 8607696384] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 17:31:42.372013 2022] [mpm_event:notice] [pid 61282:tid 8645191168] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 17:31:42.375877 2022] [core:notice] [pid 61282:tid 8645191168] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'
+[Fri Aug 05 17:35:37.431192 2022] [core:warn] [pid 61282:tid 8645191168] AH00045: child process 61292 still did not exit, sending a SIGTERM
+[Fri Aug 05 17:35:37.433084 2022] [core:warn] [pid 61282:tid 8645191168] AH00045: child process 61293 still did not exit, sending a SIGTERM
+[Fri Aug 05 17:35:39.443072 2022] [core:warn] [pid 61282:tid 8645191168] AH00045: child process 61292 still did not exit, sending a SIGTERM
+[Fri Aug 05 17:35:39.443187 2022] [core:warn] [pid 61282:tid 8645191168] AH00045: child process 61293 still did not exit, sending a SIGTERM
+[Fri Aug 05 17:35:41.444805 2022] [core:warn] [pid 61282:tid 8645191168] AH00045: child process 61292 still did not exit, sending a SIGTERM
+[Fri Aug 05 17:35:41.445014 2022] [core:warn] [pid 61282:tid 8645191168] AH00045: child process 61293 still did not exit, sending a SIGTERM
+[Fri Aug 05 17:35:43.447663 2022] [core:error] [pid 61282:tid 8645191168] AH00046: child process 61292 still did not exit, sending a SIGKILL
+[Fri Aug 05 17:35:43.448047 2022] [core:error] [pid 61282:tid 8645191168] AH00046: child process 61293 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacbookAirnoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 05 17:36:09.831587 2022] [core:warn] [pid 61405:tid 8674285056] AH00098: pid file /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 05 17:36:09.845057 2022] [mpm_event:notice] [pid 61405:tid 8674285056] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 05 17:36:09.845121 2022] [core:notice] [pid 61405:tid 8674285056] AH00094: Command line: '/Users/my.hayamacbookair/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/my.hayamacbookair/Library/Application Support/Local/run/qPLbAo8jq/conf/apache/apache2.conf'

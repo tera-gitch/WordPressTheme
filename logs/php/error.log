@@ -1,0 +1,74 @@
+[28-Jul-2022 03:50:05 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php on line 172
+[28-Jul-2022 03:50:05 UTC] PHP Stack trace:
+[28-Jul-2022 03:50:05 UTC] PHP   1. {main}() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:0
+[28-Jul-2022 03:50:05 UTC] PHP   2. do_action_ref_array() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:138
+[28-Jul-2022 03:50:05 UTC] PHP   3. WP_Hook->do_action() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/plugin.php:524
+[28-Jul-2022 03:50:05 UTC] PHP   4. WP_Hook->apply_filters() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:331
+[28-Jul-2022 03:50:05 UTC] PHP   5. wp_version_check() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:307
+[28-Jul-2022 03:50:05 UTC] PHP   6. trigger_error() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php:172
+[28-Jul-2022 03:50:06 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php on line 410
+[28-Jul-2022 03:50:06 UTC] PHP Stack trace:
+[28-Jul-2022 03:50:06 UTC] PHP   1. {main}() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:0
+[28-Jul-2022 03:50:06 UTC] PHP   2. do_action_ref_array() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:138
+[28-Jul-2022 03:50:06 UTC] PHP   3. WP_Hook->do_action() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/plugin.php:524
+[28-Jul-2022 03:50:06 UTC] PHP   4. WP_Hook->apply_filters() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:331
+[28-Jul-2022 03:50:06 UTC] PHP   5. wp_update_plugins() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:307
+[28-Jul-2022 03:50:06 UTC] PHP   6. trigger_error() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php:410
+[28-Jul-2022 03:50:06 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php on line 690
+[28-Jul-2022 03:50:06 UTC] PHP Stack trace:
+[28-Jul-2022 03:50:06 UTC] PHP   1. {main}() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:0
+[28-Jul-2022 03:50:06 UTC] PHP   2. do_action_ref_array() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:138
+[28-Jul-2022 03:50:06 UTC] PHP   3. WP_Hook->do_action() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/plugin.php:524
+[28-Jul-2022 03:50:06 UTC] PHP   4. WP_Hook->apply_filters() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:331
+[28-Jul-2022 03:50:06 UTC] PHP   5. wp_update_themes() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:307
+[28-Jul-2022 03:50:06 UTC] PHP   6. trigger_error() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php:690
+[04-Aug-2022 22:48:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:10 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:11 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:46 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:46 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[04-Aug-2022 22:48:47 UTC] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[05-Aug-2022 00:55:14 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php on line 172
+[05-Aug-2022 00:55:14 UTC] PHP Stack trace:
+[05-Aug-2022 00:55:14 UTC] PHP   1. {main}() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:0
+[05-Aug-2022 00:55:14 UTC] PHP   2. do_action_ref_array() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:138
+[05-Aug-2022 00:55:14 UTC] PHP   3. WP_Hook->do_action() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/plugin.php:524
+[05-Aug-2022 00:55:14 UTC] PHP   4. WP_Hook->apply_filters() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:331
+[05-Aug-2022 00:55:14 UTC] PHP   5. wp_version_check() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:307
+[05-Aug-2022 00:55:14 UTC] PHP   6. trigger_error() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php:172
+[05-Aug-2022 00:55:34 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php on line 410
+[05-Aug-2022 00:55:34 UTC] PHP Stack trace:
+[05-Aug-2022 00:55:34 UTC] PHP   1. {main}() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:0
+[05-Aug-2022 00:55:34 UTC] PHP   2. do_action_ref_array() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:138
+[05-Aug-2022 00:55:34 UTC] PHP   3. WP_Hook->do_action() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/plugin.php:524
+[05-Aug-2022 00:55:34 UTC] PHP   4. WP_Hook->apply_filters() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:331
+[05-Aug-2022 00:55:34 UTC] PHP   5. wp_update_plugins() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:307
+[05-Aug-2022 00:55:34 UTC] PHP   6. trigger_error() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php:410
+[05-Aug-2022 00:55:54 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php on line 690
+[05-Aug-2022 00:55:54 UTC] PHP Stack trace:
+[05-Aug-2022 00:55:54 UTC] PHP   1. {main}() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:0
+[05-Aug-2022 00:55:54 UTC] PHP   2. do_action_ref_array() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-cron.php:138
+[05-Aug-2022 00:55:54 UTC] PHP   3. WP_Hook->do_action() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/plugin.php:524
+[05-Aug-2022 00:55:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:331
+[05-Aug-2022 00:55:54 UTC] PHP   5. wp_update_themes() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:307
+[05-Aug-2022 00:55:54 UTC] PHP   6. trigger_error() /Users/my.hayamacbookair/Local Sites/testsite/app/public/wp-includes/update.php:690
